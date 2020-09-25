@@ -26,6 +26,7 @@
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'exer-1' ); ?></a>
 
 	<header id="masthead" class="site-header">
+		<div>Modification de l'entête</div>
 		<div class="site-branding">
 			<?php
 			the_custom_logo();
